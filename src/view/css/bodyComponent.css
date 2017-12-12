@@ -1,0 +1,27 @@
+.BodyComponent {
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+    height: 600px;
+    background: #ecedec;
+}
+
+.BodyComponent-left {
+    background: #fff;
+    width: 50%;
+    margin: 20px 10px 20px 20px;
+    background-color: rgba(15, 121, 207, 0.71);
+}
+
+.BodyComponent-leftheader {
+    width: 100%;
+    background: #0e5086;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.BodyComponent-form {
+    padding-top: 100px;
+}
